@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  color: #000;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.loto_app {
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  background: linear-gradient(0deg, rgba(163, 34, 195, 1) 0%, rgb(70, 60, 216) 100%);
+}
+
+.loto_field-container {
+  width: 70%;
+  padding: 10px;
+  margin: auto;
+}
+
+.loto_inner-number {
+  display: inline-block;
+  text-align: center;
+  width: calc(100% / 7);
+  padding: 5px;
+  margin: 2px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.loto_inner-number:hover {
+  background: #cccc;
+}
+
+.active {
+  background: #f7e701;
+  border-color: transparent;
+  transition: 0.3s;
+}
+.active:hover {
+  background: #f7e701;
+}
+
+.loto_field {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+  background: #fff;
+  border-radius: 5px;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.loto_btn {
+  display: block;
+  padding: 10px 20px;
+  margin: 5px auto;
+  border-radius: 50px;
+  outline: none;
+  background: transparent;
+  border: 1px solid #ccc;
+}
+
+.loto_text-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.loto_text {
+  text-align: left;
+  margin: 5px 15px;
+}
+
+.loto_magic-wand {
+  width: 25px;
+  height: 25px;
+  margin: 10 15px;
+}
