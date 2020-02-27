@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/app-loto/static/css/main.c2fa6e31.chunk.css",
-    "main.js": "/app-loto/static/js/main.bea1bd8c.chunk.js",
-    "main.js.map": "/app-loto/static/js/main.bea1bd8c.chunk.js.map",
+    "main.css": "/app-loto/static/css/main.6e993bb0.chunk.css",
+    "main.js": "/app-loto/static/js/main.91d64ba1.chunk.js",
+    "main.js.map": "/app-loto/static/js/main.91d64ba1.chunk.js.map",
     "runtime-main.js": "/app-loto/static/js/runtime-main.0e685f90.js",
     "runtime-main.js.map": "/app-loto/static/js/runtime-main.0e685f90.js.map",
     "static/js/2.5967ff86.chunk.js": "/app-loto/static/js/2.5967ff86.chunk.js",
     "static/js/2.5967ff86.chunk.js.map": "/app-loto/static/js/2.5967ff86.chunk.js.map",
     "index.html": "/app-loto/index.html",
-    "precache-manifest.988c8f80a1e5022802eded68543cbefd.js": "/app-loto/precache-manifest.988c8f80a1e5022802eded68543cbefd.js",
+    "precache-manifest.4056ec1a9e2eee5f04f813666eb3eb29.js": "/app-loto/precache-manifest.4056ec1a9e2eee5f04f813666eb3eb29.js",
     "service-worker.js": "/app-loto/service-worker.js",
-    "static/css/main.c2fa6e31.chunk.css.map": "/app-loto/static/css/main.c2fa6e31.chunk.css.map",
+    "static/css/main.6e993bb0.chunk.css.map": "/app-loto/static/css/main.6e993bb0.chunk.css.map",
     "static/js/2.5967ff86.chunk.js.LICENSE.txt": "/app-loto/static/js/2.5967ff86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e685f90.js",
     "static/js/2.5967ff86.chunk.js",
-    "static/css/main.c2fa6e31.chunk.css",
-    "static/js/main.bea1bd8c.chunk.js"
+    "static/css/main.6e993bb0.chunk.css",
+    "static/js/main.91d64ba1.chunk.js"
   ]
 }
