@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Test-loto/static/css/main.c2fa6e31.chunk.css",
+    "main.js": "/Test-loto/static/js/main.d13f85a2.chunk.js",
+    "main.js.map": "/Test-loto/static/js/main.d13f85a2.chunk.js.map",
+    "runtime-main.js": "/Test-loto/static/js/runtime-main.10e4e7e3.js",
+    "runtime-main.js.map": "/Test-loto/static/js/runtime-main.10e4e7e3.js.map",
+    "static/js/2.c28bf6fc.chunk.js": "/Test-loto/static/js/2.c28bf6fc.chunk.js",
+    "static/js/2.c28bf6fc.chunk.js.map": "/Test-loto/static/js/2.c28bf6fc.chunk.js.map",
+    "index.html": "/Test-loto/index.html",
+    "precache-manifest.dcc5f826aca9dc13c0f280e810be2bc2.js": "/Test-loto/precache-manifest.dcc5f826aca9dc13c0f280e810be2bc2.js",
+    "service-worker.js": "/Test-loto/service-worker.js",
+    "static/css/main.c2fa6e31.chunk.css.map": "/Test-loto/static/css/main.c2fa6e31.chunk.css.map",
+    "static/js/2.c28bf6fc.chunk.js.LICENSE.txt": "/Test-loto/static/js/2.c28bf6fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e4e7e3.js",
+    "static/js/2.c28bf6fc.chunk.js",
+    "static/css/main.c2fa6e31.chunk.css",
+    "static/js/main.d13f85a2.chunk.js"
+  ]
+}
