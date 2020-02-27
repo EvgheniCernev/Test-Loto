@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "727369617564f5015135c79ed68a1f2d",
+    "revision": "f029d20111f742a93073e8512bb81d62",
     "url": "/app-loto/index.html"
   },
   {
-    "revision": "9e3d72255fadf1975d65",
+    "revision": "e2a91f61bcae55e4d8cd",
     "url": "/app-loto/static/css/main.c2fa6e31.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-loto/static/js/2.5967ff86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e3d72255fadf1975d65",
-    "url": "/app-loto/static/js/main.91d64ba1.chunk.js"
+    "revision": "e2a91f61bcae55e4d8cd",
+    "url": "/app-loto/static/js/main.bea1bd8c.chunk.js"
   },
   {
     "revision": "5096f03712c87620db78",
