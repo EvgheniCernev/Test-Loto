@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Test-Loto/static/css/main.c2fa6e31.chunk.css",
-    "main.js": "/Test-Loto/static/js/main.91d64ba1.chunk.js",
-    "main.js.map": "/Test-Loto/static/js/main.91d64ba1.chunk.js.map",
-    "runtime-main.js": "/Test-Loto/static/js/runtime-main.00f53544.js",
-    "runtime-main.js.map": "/Test-Loto/static/js/runtime-main.00f53544.js.map",
-    "static/js/2.5967ff86.chunk.js": "/Test-Loto/static/js/2.5967ff86.chunk.js",
-    "static/js/2.5967ff86.chunk.js.map": "/Test-Loto/static/js/2.5967ff86.chunk.js.map",
-    "index.html": "/Test-Loto/index.html",
-    "precache-manifest.3a541319b42a60ce147ad320ebaeff33.js": "/Test-Loto/precache-manifest.3a541319b42a60ce147ad320ebaeff33.js",
-    "service-worker.js": "/Test-Loto/service-worker.js",
-    "static/css/main.c2fa6e31.chunk.css.map": "/Test-Loto/static/css/main.c2fa6e31.chunk.css.map",
-    "static/js/2.5967ff86.chunk.js.LICENSE.txt": "/Test-Loto/static/js/2.5967ff86.chunk.js.LICENSE.txt"
+    "main.css": "/app-loto/static/css/main.c2fa6e31.chunk.css",
+    "main.js": "/app-loto/static/js/main.91d64ba1.chunk.js",
+    "main.js.map": "/app-loto/static/js/main.91d64ba1.chunk.js.map",
+    "runtime-main.js": "/app-loto/static/js/runtime-main.0e685f90.js",
+    "runtime-main.js.map": "/app-loto/static/js/runtime-main.0e685f90.js.map",
+    "static/js/2.5967ff86.chunk.js": "/app-loto/static/js/2.5967ff86.chunk.js",
+    "static/js/2.5967ff86.chunk.js.map": "/app-loto/static/js/2.5967ff86.chunk.js.map",
+    "index.html": "/app-loto/index.html",
+    "precache-manifest.47ab5e1882b5b2363b191eb782eae8e5.js": "/app-loto/precache-manifest.47ab5e1882b5b2363b191eb782eae8e5.js",
+    "service-worker.js": "/app-loto/service-worker.js",
+    "static/css/main.c2fa6e31.chunk.css.map": "/app-loto/static/css/main.c2fa6e31.chunk.css.map",
+    "static/js/2.5967ff86.chunk.js.LICENSE.txt": "/app-loto/static/js/2.5967ff86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00f53544.js",
+    "static/js/runtime-main.0e685f90.js",
     "static/js/2.5967ff86.chunk.js",
     "static/css/main.c2fa6e31.chunk.css",
     "static/js/main.91d64ba1.chunk.js"
